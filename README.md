@@ -1,5 +1,5 @@
 ## Hello. I'm Heritier <br/>
-Computer Engineering Student at UR.<br/>
+Computer Engineering Student at University Of Rwanda.<br/>
 Am a mobile developer.<br/>
 I also do IoT and embedded systems.<br/>
 
